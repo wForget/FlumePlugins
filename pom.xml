@@ -11,6 +11,7 @@
     <modules>
         <module>flume-spooldir-source-plugin</module>
         <module>flume-smartdata-sink</module>
+        <module>flume-high-memory-channel</module>
     </modules>
 
     <properties>
