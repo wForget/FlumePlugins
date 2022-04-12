@@ -12,7 +12,7 @@
     <artifactId>flume-smartdata-sink</artifactId>
 
     <properties>
-        <hadoop.version>2.6.0-cdh5.7.6</hadoop.version>
+        <hadoop.version>3.2.3</hadoop.version>
     </properties>
 
     <dependencies>
